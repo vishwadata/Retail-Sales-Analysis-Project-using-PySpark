@@ -1,4 +1,3 @@
-
 #Create a Spark Session
 from pyspark.sql import SparkSession
 spark = SparkSession.builder \
